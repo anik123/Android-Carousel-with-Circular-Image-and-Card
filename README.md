@@ -18,4 +18,5 @@ compile 'de.hdodenhof:circleimageview:2.0.0'
 
 ### DEMO
 
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/uKUfCClXRxo/0.jpg)](http://www.youtube.com/watch?v=uKUfCClXRxo)
+<a href="http://www.youtube.com/watch?v=uKUfCClXRxo" target="_blank">
+<img src="http://i64.tinypic.com/16789p3.jpg" width="50%" alt="Android Carousel with Circular Image and Card" /></a>
