@@ -16,7 +16,6 @@ compile 'com.android.support:cardview-v7:23.4.0'
 compile 'de.hdodenhof:circleimageview:2.0.0'
 ```
 
-### DEMO
+### [DEMO](http://www.youtube.com/watch?v=uKUfCClXRxo)
 
-<a href="http://www.youtube.com/watch?v=uKUfCClXRxo" target="_blank">
-<img src="http://i64.tinypic.com/16789p3.jpg" width="50%" alt="Android Carousel with Circular Image and Card" /></a>
+<img src="http://i64.tinypic.com/16789p3.jpg" width="50%" alt="Android Carousel with Circular Image and Card" />
