@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="carousel-1.1.5">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.azoft.carousellayoutmanager/carousel/1.1.5/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.azoft.carousellayoutmanager/carousel/1.1.5/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.azoft.carousellayoutmanager/carousel/1.1.5/f00d661a9e4a016c3558eea603954a818b6b4e07/carousel-1.1.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
