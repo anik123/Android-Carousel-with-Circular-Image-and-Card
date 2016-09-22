@@ -18,4 +18,5 @@ compile 'de.hdodenhof:circleimageview:2.0.0'
 
 ### Screenshot
 
-![www.anikislamabhi.com screenshot](http://i64.tinypic.com/16789p3.jpg)
+<img src="http://i64.tinypic.com/16789p3.jpg" width="50%">
+
