@@ -18,5 +18,6 @@ compile 'de.hdodenhof:circleimageview:2.0.0'
 
 ### Screenshot
 
-<img src="http://i64.tinypic.com/16789p3.jpg" width="50%">
-
+<a href="https://www.youtube.com/watch?v=uKUfCClXRxo
+" target="_blank"><img src="http://i64.tinypic.com/16789p3.jpg" 
+alt="Android Carousel with Circular Image and Card" width="50%" border="10" /></a>
