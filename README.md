@@ -8,7 +8,7 @@ This project is build using the following library:
 
 ### How to Add
 
-Add this following to your gradle
+Add following code to your gradle
 
 ```text
 compile 'com.azoft.carousellayoutmanager:carousel:1.1.5'
